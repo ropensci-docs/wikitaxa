@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "684cceeaeeee2a6a7e22b26fb19311ff1eb7cfdf",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-06-30 14:53:33",
+    "files": 1,
+    "merge": false,
+    "message": "bump to dev version\n"
+  },
+  "remote": "https://github.com/ropensci/wikitaxa",
+  "pkg": "wikitaxa"
+}
