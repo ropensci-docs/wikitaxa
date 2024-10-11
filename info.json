@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e8c514f8d4b4556abc9d71c9c25f20d6da4a0249",
+    "author": "Grzegorz Sapijaszko <grzegorz@sapijaszko.net>",
+    "time": "2024-10-11 19:51:21",
+    "files": 19,
+    "merge": true,
+    "message": "Merge pull request #22 from gsapijaszko/master\n\naddressing https://github.com/ropensci/wikitaxa/issues/21 with common names"
+  },
+  "repo": "https://github.com/ropensci/wikitaxa",
+  "pkg": "wikitaxa"
+}
