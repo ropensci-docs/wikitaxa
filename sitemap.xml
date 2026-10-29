@@ -1,0 +1,23 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://docs.ropensci.org/wikitaxa/404.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/CODE_OF_CONDUCT.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/CONTRIBUTING.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/LICENSE-text.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/articles/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/articles/wikitaxa.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/authors.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/news/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wikipedias.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wikitaxa-package.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_data.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wiki_page.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wiki_page_parse.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wiki_url_build.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wiki_url_parse.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wikicommons.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wikipedia.html</loc></url>
+<url><loc>https://docs.ropensci.org/wikitaxa/reference/wt_wikispecies.html</loc></url>
+</urlset>
+

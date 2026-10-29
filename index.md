@@ -1,0 +1,86 @@
+# wikitaxa
+
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![cran
+checks](https://badges.cranchecks.info/worst/wikitaxa.svg)](https://CRAN.r-project.org/package=wikitaxa)
+[![R-CMD-check](https://github.com/ropensci/wikitaxa/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci/wikitaxa/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/ropensci/wikitaxa/branch/master/graph/badge.svg)](https://app.codecov.io/gh/ropensci/wikitaxa)
+[![rstudio mirror
+downloads](https://cranlogs.r-pkg.org/badges/wikitaxa)](https://github.com/r-hub/cranlogs.app)
+[![cran
+version](https://www.r-pkg.org/badges/version/wikitaxa)](https://cran.r-project.org/package=wikitaxa)
+
+`wikitaxa` - taxonomy data from Wikipedia/Wikidata/Wikispecies
+
+`wikitaxa` docs: <https://docs.ropensci.org/wikitaxa/>
+
+See also the taxize book: <https://books.ropensci.org/taxize/>
+
+### Low level API
+
+The low level API is meant for power users and gives you more control,
+but requires more knowledge.
+
+- [`wt_wiki_page()`](https://docs.ropensci.org/wikitaxa/reference/wt_wiki_page.md)
+- [`wt_wiki_page_parse()`](https://docs.ropensci.org/wikitaxa/reference/wt_wiki_page_parse.md)
+- [`wt_wiki_url_build()`](https://docs.ropensci.org/wikitaxa/reference/wt_wiki_url_build.md)
+- [`wt_wiki_url_parse()`](https://docs.ropensci.org/wikitaxa/reference/wt_wiki_url_parse.md)
+- [`wt_wikispecies_parse()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikispecies.md)
+- [`wt_wikicommons_parse()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikicommons.md)
+- [`wt_wikipedia_parse()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikipedia.md)
+
+### High level API
+
+The high level API is meant to be easier and faster to use.
+
+- [`wt_data()`](https://docs.ropensci.org/wikitaxa/reference/wt_data.md)
+- [`wt_data_id()`](https://docs.ropensci.org/wikitaxa/reference/wt_data.md)
+- [`wt_wikispecies()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikispecies.md)
+- [`wt_wikicommons()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikicommons.md)
+- [`wt_wikipedia()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikipedia.md)
+
+Search functions:
+
+- [`wt_wikicommons_search()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikicommons.md)
+- [`wt_wikispecies_search()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikispecies.md)
+- [`wt_wikipedia_search()`](https://docs.ropensci.org/wikitaxa/reference/wt_wikipedia.md)
+
+## Installation
+
+CRAN version
+
+``` r
+
+install.packages("wikitaxa")
+```
+
+Dev version
+
+``` r
+
+remotes::install_github("ropensci/wikitaxa")
+```
+
+``` r
+
+library('wikitaxa')
+```
+
+## Contributors
+
+- [Ethan Welty](https://github.com/ezwelty)
+- [Scott Chamberlain](https://github.com/sckott)
+- [Zachary S.L. Foster](https://github.com/zachary-foster)
+
+## Meta
+
+- Please [report any issues or
+  bugs](https://github.com/ropensci/wikitaxa/issues).
+- License: MIT
+- Get citation information for `wikitaxa` in R doing
+  `citation(package = 'wikitaxa')`
+- Please note that this project is released with a [Contributor Code of
+  Conduct](https://github.com/ropensci/wikitaxa/blob/master/CODE_OF_CONDUCT.md).
+  By participating in this project you agree to abide by its terms.
